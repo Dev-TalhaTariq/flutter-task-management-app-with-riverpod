@@ -6,21 +6,50 @@ This project demonstrates practical knowledge of Riverpod and its application in
 
 ## 📱 Screenshots
 
-| Home Screen | All Tasks |
-|---|---|
-| ![Home Screen](screenshots/Home_Screen.jpeg) | ![All Tasks](screenshots/All_Tasks_Screen.jpeg) |
+### Main Screens
 
-| Analytics | Add Task |
-|---|---|
-| ![Analytics](screenshots/Analytics.jpeg) | ![Add Task](screenshots/Add_Task_Screen.jpeg) |
+<p align="center">
+  <img src="screenshots/Home_Screen.jpeg" width="200" alt="Home Screen"/>
+  <img src="screenshots/All_Tasks_Screen.jpeg" width="200" alt="All Tasks Screen"/>
+  <img src="screenshots/Analytics.jpeg" width="200" alt="Analytics Screen"/>
+</p>
 
-| Completed Tasks | Category Filter |
-|---|---|
-| ![Completed Tasks](screenshots/Completed_Status.jpeg) | ![Category Filter](screenshots/General_Category.jpeg) |
+### Additional Screenshots
 
-| Date Picker | Time Picker |
-|---|---|
-| ![Date Picker](screenshots/date_picker.jpeg) | ![Time Picker](screenshots/time_picker.jpeg) |
+<details>
+<summary>View All Screenshots</summary>
+
+#### Add Task
+<p align="center">
+  <img src="screenshots/Add_Task_Screen.jpeg" width="200" alt="Add Task Screen"/>
+</p>
+
+#### Completed Tasks
+<p align="center">
+  <img src="screenshots/Completed_Status.jpeg" width="200" alt="Completed Tasks"/>
+</p>
+
+#### Category Filter
+<p align="center">
+  <img src="screenshots/General_Category.jpeg" width="200" alt="Category Filter"/>
+</p>
+
+#### Date Picker
+<p align="center">
+  <img src="screenshots/date_picker.jpeg" width="200" alt="Date Picker"/>
+</p>
+
+#### Time Picker
+<p align="center">
+  <img src="screenshots/time_picker.jpeg" width="200" alt="Time Picker"/>
+</p>
+
+#### Search Tasks
+<p align="center">
+  <img src="screenshots/While_Searching.jpeg" width="200" alt="Search Tasks"/>
+</p>
+
+</details>
 
 ## ✨ Features
 
